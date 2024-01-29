@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/dalton/Library/Developer/Xcode/DerivedData/Runner-dmpxorechmyoeeallukkuhgtvzgl/Build/Intermediates.noindex/ArchiveIntermediates/Runner/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/sensors_plus.framework/sensors_plus'
+binary-path:     '/Users/dalton/Library/Developer/Xcode/DerivedData/Runner-dsbdktmxbalvkzgazorlxzrfxrjx/Build/Intermediates.noindex/ArchiveIntermediates/Runner/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/sensors_plus.framework/sensors_plus'
 relocations:
   - { offsetInCU: 0x34, offset: 0x59DD3, size: 0x8, addend: 0x0, symName: _sensors_plusVersionString, symObjAddr: 0x0, symBinAddr: 0xA2E0, symSize: 0x0 }
   - { offsetInCU: 0x69, offset: 0x59E08, size: 0x8, addend: 0x0, symName: _sensors_plusVersionNumber, symObjAddr: 0x30, symBinAddr: 0xA310, symSize: 0x0 }

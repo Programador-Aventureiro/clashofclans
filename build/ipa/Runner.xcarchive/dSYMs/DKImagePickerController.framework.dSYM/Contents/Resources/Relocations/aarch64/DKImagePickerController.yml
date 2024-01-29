@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/dalton/Library/Developer/Xcode/DerivedData/Runner-dmpxorechmyoeeallukkuhgtvzgl/Build/Intermediates.noindex/ArchiveIntermediates/Runner/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DKImagePickerController.framework/DKImagePickerController'
+binary-path:     '/Users/dalton/Library/Developer/Xcode/DerivedData/Runner-dsbdktmxbalvkzgazorlxzrfxrjx/Build/Intermediates.noindex/ArchiveIntermediates/Runner/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DKImagePickerController.framework/DKImagePickerController'
 relocations:
   - { offsetInCU: 0x34, offset: 0x70723, size: 0x8, addend: 0x0, symName: _DKImagePickerControllerVersionString, symObjAddr: 0x0, symBinAddr: 0x52EA0, symSize: 0x0 }
   - { offsetInCU: 0x69, offset: 0x70758, size: 0x8, addend: 0x0, symName: _DKImagePickerControllerVersionNumber, symObjAddr: 0x38, symBinAddr: 0x52ED8, symSize: 0x0 }
@@ -527,7 +527,7 @@ relocations:
   - { offsetInCU: 0x2CB, offset: 0x800D3, size: 0x8, addend: 0x0, symName: '_$s23DKImagePickerController22DKAssetGroupGridLayoutC5coderACSgSo7NSCoderC_tcfcTo', symObjAddr: 0x324, symBinAddr: 0x1B6F0, symSize: 0x44 }
   - { offsetInCU: 0x30E, offset: 0x80116, size: 0x8, addend: 0x0, symName: '_$s23DKImagePickerController22DKAssetGroupGridLayoutCfD', symObjAddr: 0x368, symBinAddr: 0x1B734, symSize: 0x30 }
   - { offsetInCU: 0x33C, offset: 0x80144, size: 0x8, addend: 0x0, symName: '_$s23DKImagePickerController22DKAssetGroupGridLayoutCMa', symObjAddr: 0x1B8, symBinAddr: 0x1B584, symSize: 0x20 }
-  - { offsetInCU: 0x4F, offset: 0x80343, size: 0x8, addend: 0x0, symName: '_$s23DKImagePickerController16DKAssetGroupCellC15preferredHeight12CoreGraphics7CGFloatVvpZ', symObjAddr: 0x1AA98, symBinAddr: 0x74A40, symSize: 0x0 }
+  - { offsetInCU: 0x4F, offset: 0x80343, size: 0x8, addend: 0x0, symName: '_$s23DKImagePickerController16DKAssetGroupCellC15preferredHeight12CoreGraphics7CGFloatVvpZ', symObjAddr: 0x1AA90, symBinAddr: 0x74A40, symSize: 0x0 }
   - { offsetInCU: 0x5D, offset: 0x80351, size: 0x8, addend: 0x0, symName: '_$s23DKImagePickerController16DKAssetGroupCellC15preferredHeight_WZ', symObjAddr: 0x0, symBinAddr: 0x1B764, symSize: 0x14 }
   - { offsetInCU: 0xA5, offset: 0x80399, size: 0x8, addend: 0x0, symName: '_$s23DKImagePickerController16DKAssetGroupCellC15preferredHeight12CoreGraphics7CGFloatVvgZTo', symObjAddr: 0x14, symBinAddr: 0x1B778, symSize: 0x68 }
   - { offsetInCU: 0xFA, offset: 0x803EE, size: 0x8, addend: 0x0, symName: '_$s23DKImagePickerController16DKAssetGroupCellC15preferredHeight12CoreGraphics7CGFloatVvsZTo', symObjAddr: 0x7C, symBinAddr: 0x1B7E0, symSize: 0x74 }

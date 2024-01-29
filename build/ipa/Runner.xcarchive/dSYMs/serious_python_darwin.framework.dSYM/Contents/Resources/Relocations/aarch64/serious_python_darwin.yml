@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/dalton/Library/Developer/Xcode/DerivedData/Runner-dmpxorechmyoeeallukkuhgtvzgl/Build/Intermediates.noindex/ArchiveIntermediates/Runner/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/serious_python_darwin.framework/serious_python_darwin'
+binary-path:     '/Users/dalton/Library/Developer/Xcode/DerivedData/Runner-dsbdktmxbalvkzgazorlxzrfxrjx/Build/Intermediates.noindex/ArchiveIntermediates/Runner/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/serious_python_darwin.framework/serious_python_darwin'
 relocations:
   - { offsetInCU: 0x34, offset: 0x5B2FE, size: 0x8, addend: 0x0, symName: _serious_python_darwinVersionString, symObjAddr: 0x0, symBinAddr: 0x49B6D0, symSize: 0x0 }
   - { offsetInCU: 0x69, offset: 0x5B333, size: 0x8, addend: 0x0, symName: _serious_python_darwinVersionNumber, symObjAddr: 0x38, symBinAddr: 0x49B708, symSize: 0x0 }

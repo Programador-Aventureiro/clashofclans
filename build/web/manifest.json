@@ -1,6 +1,6 @@
 {
-    "name": "teste",
-    "short_name": "teste",
+    "name": "Clash of Clans",
+    "short_name": "clash_of_clans",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

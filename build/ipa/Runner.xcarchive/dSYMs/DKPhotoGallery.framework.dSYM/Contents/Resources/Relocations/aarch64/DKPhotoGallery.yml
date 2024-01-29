@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/dalton/Library/Developer/Xcode/DerivedData/Runner-dmpxorechmyoeeallukkuhgtvzgl/Build/Intermediates.noindex/ArchiveIntermediates/Runner/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DKPhotoGallery.framework/DKPhotoGallery'
+binary-path:     '/Users/dalton/Library/Developer/Xcode/DerivedData/Runner-dsbdktmxbalvkzgazorlxzrfxrjx/Build/Intermediates.noindex/ArchiveIntermediates/Runner/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DKPhotoGallery.framework/DKPhotoGallery'
 relocations:
   - { offsetInCU: 0x34, offset: 0x782B1, size: 0x8, addend: 0x0, symName: _DKPhotoGalleryVersionString, symObjAddr: 0x0, symBinAddr: 0x40120, symSize: 0x0 }
   - { offsetInCU: 0x69, offset: 0x782E6, size: 0x8, addend: 0x0, symName: _DKPhotoGalleryVersionNumber, symObjAddr: 0x30, symBinAddr: 0x40150, symSize: 0x0 }

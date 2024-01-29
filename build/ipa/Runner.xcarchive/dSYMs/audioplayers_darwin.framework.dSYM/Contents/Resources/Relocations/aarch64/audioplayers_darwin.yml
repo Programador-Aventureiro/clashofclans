@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/dalton/Library/Developer/Xcode/DerivedData/Runner-dmpxorechmyoeeallukkuhgtvzgl/Build/Intermediates.noindex/ArchiveIntermediates/Runner/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/audioplayers_darwin.framework/audioplayers_darwin'
+binary-path:     '/Users/dalton/Library/Developer/Xcode/DerivedData/Runner-dsbdktmxbalvkzgazorlxzrfxrjx/Build/Intermediates.noindex/ArchiveIntermediates/Runner/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/audioplayers_darwin.framework/audioplayers_darwin'
 relocations:
   - { offsetInCU: 0x34, offset: 0x7379B, size: 0x8, addend: 0x0, symName: _audioplayers_darwinVersionString, symObjAddr: 0x0, symBinAddr: 0x16B90, symSize: 0x0 }
   - { offsetInCU: 0x69, offset: 0x737D0, size: 0x8, addend: 0x0, symName: _audioplayers_darwinVersionNumber, symObjAddr: 0x38, symBinAddr: 0x16BC8, symSize: 0x0 }
